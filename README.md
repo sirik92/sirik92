@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sirik92
+- 👋 Hi, I’m F4RR3LL
 - 👀 I’m interested in ... obj -c, swift, php
 - 🌱 I’m currently learning ... c++
 - 💞️ I’m looking to collaborate on ...
